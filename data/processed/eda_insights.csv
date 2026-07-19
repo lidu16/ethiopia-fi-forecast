@@ -1,6 +1,6 @@
 insight,evidence
-Account ownership growth slowed from 11pp to 3pp,"ACC_OWNERSHIP growth rates: 2017-2021: +11pp, 2021-2024: +3pp"
-Mobile money accounts growing but not driving inclusion,"ACC_MM_ACCOUNT grew from 4.7% to 9.45%, ACC_OWNERSHIP grew only 3pp"
-Digital payments are increasing,USG_DIGITAL_PAYMENT indicator shows upward trend
-Events associated with inclusion changes,"Telebirr launch (2021), M-Pesa entry (2023) aligned with changes"
-Data gaps limit analysis,"Many indicators have sparse coverage, some with <3 data points"
+Account ownership growth slowed from 11pp to 3pp (2017-2024),ACC_OWNERSHIP data: 46% (2021) → 49% (2024)
+Mobile money accounts grew 4.7% → 9.45% (2021-2024),ACC_MM_ACCOUNT data: 4.7% (2021) → 9.45% (2024)
+P2P transfers have surpassed ATM cash withdrawals,USG_CROSSOVER indicator >1
+"Telebirr: 54M+ users, M-Pesa: 10M+ users",USG_TELEBIRR_USERS and USG_MPESA_USERS data
+4G coverage and mobile penetration are key enablers,ACC_4G_COV and ACC_MOBILE_PEN data
