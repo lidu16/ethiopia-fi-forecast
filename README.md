@@ -22,6 +22,7 @@ The previous version made a mistake: it assigned events to pillars (e.g., "Teleb
 
 ## How It Works
 
+
 ### Events are neutral
 ```csv
 EVT_0001,,event,product_launch,,Telebirr Launch,...
@@ -146,3 +147,20 @@ related_indicator: The indicator code being affected
 | `ethiopia_fi_unified_data.csv` | The data (56 records) |
 | `reference_codes.csv` | Valid codes for each field |
 | `SCHEMA_DESIGN.md` | Detailed schema documentation |
+## Screenshots
+
+
+
+The following screenshots are included for reference:
+
+- Screenshot 1  
+  ![Screenshot 1](asset/Screenshot%201.png)
+
+- Screenshot 2  
+  ![Screenshot 2](asset/Screenshot%202.png)
+
+- Screenshot 3  
+  ![Screenshot 3](asset/Screenshot%203.png)
+
+- Screenshot 4  
+  ![Screenshot 4](asset/Screenshot%204.png)
